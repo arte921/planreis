@@ -1,0 +1,19 @@
+{
+  "name": "planreis",
+  "version": "1.0.1",
+  "description": "Plant de reis beschreven in het meegegeven bestand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "multiplanner": "^2.0.6"
+  },
+  "bin": {
+    "update-multiplanner": "update.js",
+    "planreis": "index.js"
+  }
+}
