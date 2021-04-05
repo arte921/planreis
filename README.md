@@ -20,7 +20,7 @@ arnhem centraal
 utrecht centraal
 zwolle
 assen
-09:20
+tomorrow 09:20
 groningen
 leeuwarden
 almere centrum
