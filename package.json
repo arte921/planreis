@@ -1,6 +1,6 @@
 {
   "name": "planreis",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plant de reis beschreven in het meegegeven bestand",
   "main": "index.js",
   "scripts": {
