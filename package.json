@@ -1,6 +1,6 @@
 {
   "name": "planreis",
-  "version": "1.0.2",
+  "version": "3.0.0",
   "description": "Plant de reis beschreven in het meegegeven bestand",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^0.12.3",
-    "multiplanner": "^2.0.10"
+    "multiplanner": "^3.1.2"
   },
   "bin": {
     "update-multiplanner": "update.js",
